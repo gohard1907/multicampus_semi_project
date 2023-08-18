@@ -25,3 +25,6 @@
 ![슬라이드22](https://github.com/gohard1907/semi_project/assets/33924444/384108a9-ffcd-4887-878c-ec0d4892314a)
 ![슬라이드23](https://github.com/gohard1907/semi_project/assets/33924444/9ba1b142-c8c4-4f0c-82f8-fbb257601b38)
 
+![시상1](https://github.com/gohard1907/semi_project/assets/33924444/df3d9f1a-2625-4a51-bcc3-70fa6386dc9c)
+![시상2](https://github.com/gohard1907/semi_project/assets/33924444/d7b19a5b-bd46-4e23-9300-91ee6c13c8a9)
+

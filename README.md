@@ -1,0 +1,27 @@
+# semi_project
+코로나19 전후 영화 특성에 따른 영화 소비 패턴의 변화
+
+![슬라이드1](https://github.com/gohard1907/semi_project/assets/33924444/8ea4d4e0-a298-4eae-a89b-70551943d34a)
+![슬라이드2](https://github.com/gohard1907/semi_project/assets/33924444/6668f357-de98-4f15-ab37-7159a6e0d511)
+![슬라이드3](https://github.com/gohard1907/semi_project/assets/33924444/35c535ca-3499-4f2d-ac3d-dcb32c90886d)
+![슬라이드4](https://github.com/gohard1907/semi_project/assets/33924444/b6968521-b7bb-4457-adc7-a1848da12342)
+![슬라이드5](https://github.com/gohard1907/semi_project/assets/33924444/b324bece-799f-4e4d-bdaf-43b6e2d28874)
+![슬라이드6](https://github.com/gohard1907/semi_project/assets/33924444/706091f5-cf85-4621-b479-2d30430d2588)
+![슬라이드7](https://github.com/gohard1907/semi_project/assets/33924444/f51d4cb4-26f5-4842-9ffc-a55de96182d5)
+![슬라이드8](https://github.com/gohard1907/semi_project/assets/33924444/dfdcb641-792d-4df0-b81f-7b4dbae89ddd)
+![슬라이드9](https://github.com/gohard1907/semi_project/assets/33924444/5f3b7af7-6ce3-4dae-8adf-51bfc42d0582)
+![슬라이드10](https://github.com/gohard1907/semi_project/assets/33924444/f07b27a3-de2e-41fa-824c-459b61eaf2cc)
+![슬라이드11](https://github.com/gohard1907/semi_project/assets/33924444/b169546b-3d54-488b-bda7-b6ce93b3b359)
+![슬라이드12](https://github.com/gohard1907/semi_project/assets/33924444/d509b271-70d3-424c-a7c7-c2ed2be54b41)
+![슬라이드13](https://github.com/gohard1907/semi_project/assets/33924444/4ea5e8fb-acff-4b31-a8f7-5a6f030102f3)
+![슬라이드14](https://github.com/gohard1907/semi_project/assets/33924444/260eb069-32f5-4029-a489-a9133e45df32)
+![슬라이드15](https://github.com/gohard1907/semi_project/assets/33924444/9076ebac-654a-436b-91be-15e21da85dc4)
+![슬라이드16](https://github.com/gohard1907/semi_project/assets/33924444/7343c3b4-a8e0-4a26-92a1-a36dac93856c)
+![슬라이드17](https://github.com/gohard1907/semi_project/assets/33924444/8592dd61-1454-4e31-95ee-c0a664c64612)
+![슬라이드18](https://github.com/gohard1907/semi_project/assets/33924444/76bc87f9-95f5-4796-aff4-365d4812d0c2)
+![슬라이드19](https://github.com/gohard1907/semi_project/assets/33924444/73d5f2b6-b2a9-42a4-9e23-0592dbbe5dbe)
+![슬라이드20](https://github.com/gohard1907/semi_project/assets/33924444/4a0852cf-c3af-49b2-b600-0f32d25b6678)
+![슬라이드21](https://github.com/gohard1907/semi_project/assets/33924444/075f30d1-7eb0-4a61-92bc-49777be3127b)
+![슬라이드22](https://github.com/gohard1907/semi_project/assets/33924444/384108a9-ffcd-4887-878c-ec0d4892314a)
+![슬라이드23](https://github.com/gohard1907/semi_project/assets/33924444/9ba1b142-c8c4-4f0c-82f8-fbb257601b38)
+

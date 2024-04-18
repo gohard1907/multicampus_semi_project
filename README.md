@@ -1,4 +1,4 @@
-# semi_project
+# multicampus_semi_project
 코로나19 전후 영화 특성에 따른 영화 소비 패턴의 변화
 
 ![슬라이드1](https://github.com/gohard1907/semi_project/assets/33924444/8ea4d4e0-a298-4eae-a89b-70551943d34a)
